@@ -13,4 +13,4 @@ citation: '<b>Wendt, J.A.F.</b>, Paschke, M.W. (2018). Temporal variability of s
 
 Seed germination study across a chronosequence of lodgepole pine forests in the Colorado Front Range.
 
-Recommended citation: <b>Wendt, J.A.F.</b>, Paschke, M.W. (2018). Temporal variability of soil seed banks in lodgepole pine forests. <i>Journal of Undergraduate Research</i>.
+<b>Wendt, J.A.F.</b>, Paschke, M.W. (2018). Temporal variability of soil seed banks in lodgepole pine forests. <i>Journal of Undergraduate Research</i>.
