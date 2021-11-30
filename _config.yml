@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "John Wendt"
 title_separator          : "-"
 name                     : &name "John Wendt"
-description              : &description "PhD Student"
+description              : &description "Paleoecology PhD Student"
 url                      : https://johnwendt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "johnwendt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "John Wendt"
   avatar           : "profile.png"
-  bio              : "PhD Student"
-  location         : "Bozeman, MT"
+  bio              : "Paleoecology PhD Student"
+  location         : "Bozeman, Montana"
   employer         : "Montana State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1KojwlEAAAAJ&hl=en"
