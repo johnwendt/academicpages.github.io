@@ -10,7 +10,7 @@ location: "Bozeman, Montana"
 
 Lab sections of GPHY 284 focused on geographic information science and cartography. I taught two undergraduate lab sections during the Spring 2019 and Spring 2020 semesters. The second half of the Spring 2020 semester was conducted online due to the COVID-19 pandemic.
 
-*Key skills taught:*
+*Skills taught:*
 * GPS
 * Data directory management
 * Principles of cartographic design
@@ -28,12 +28,3 @@ Lab sections of GPHY 284 focused on geographic information science and cartograp
 * ArcMap
 * ArcCatalog
 * ArcGIS Online
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
