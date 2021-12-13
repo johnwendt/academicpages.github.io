@@ -1,7 +1,7 @@
 ---
-title: "Graduate teaching assistant"
+title: "Introduction to GIScience and Cartography - GPHY 284"
 collection: teaching
-type: "Introduction to GIScience and Cartography - GPHY 284"
+type: "Graduate teaching assistant"
 permalink: /teaching/GPHY_284
 venue: "Montana State University, Department of Earth Sciences"
 date: 2019-01-15

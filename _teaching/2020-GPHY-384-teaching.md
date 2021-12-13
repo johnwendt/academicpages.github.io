@@ -1,7 +1,7 @@
 ---
-title: "Graduate teaching assistant"
+title: "Advanced GIS and Spatial Analysis - GPHY 384"
 collection: teaching
-type: "Advanced GIS and Spatial Analysis - GPHY 384"
+type: "Graduate teaching assistant"
 permalink: /teaching/GPHY_384
 venue: "Montana State University, Department of Earth Sciences"
 date: 2020-08-15
