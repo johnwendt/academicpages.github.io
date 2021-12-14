@@ -74,64 +74,64 @@ Colorado State University, 2016
 
 ### Research and professional experience
 
-* Visiting Researcher, Fall 2021
-  * Dept. of Environmental Sciences, Informatics and Statistics, Ca' Foscari University of Venice
+* Visiting Researcher, Fall 2021  
+  Dept. of Environmental Sciences, Informatics and Statistics, Ca' Foscari University of Venice
   * Analyzed molecular biomarkers from lake sediments to reconstruct past herbivore activity.
 
-* Teaching Asisstant, Spring 2019 - Spring 2021
-  * Departement of Earth Sciences and Department of Land Resources and Environmental Sciences, Montana State University
+* Teaching Asisstant, Spring 2019 - Spring 2021  
+Departement of Earth Sciences and Department of Land Resources and Environmental Sciences, Montana State University
   * Led instruction of two lab sections for undergraduate students in GPHY 284 - Intro. to GIS Science and Cartography and GPHY 384 - Adv. GIS and Spatial Analysis.
 
-* Research Asisstant, Fall 2018 - present
-  * Paleoecology Lab, Montana State University
+* Research Asisstant, Fall 2018 - present  
+Paleoecology Lab, Montana State University
   * Supporting lab and field research activities including collection of sediment cores and lab analysis of charcoal and pollen.
 
-* GIS Specialist, 2018
-  * Center for Environmental Management of Military Lands, Colorado State University
+* GIS Specialist, 2018  
+Center for Environmental Management of Military Lands, Colorado State University
   * Performed quality control and validation for Air Force environmental GIS databases.
 
-* Rangeland Technician, 2016 - 2017
-  * Synergy Resource Solutions, Inc., Belgrade, Montana
+* Rangeland Technician, 2016 - 2017  
+Synergy Resource Solutions, Inc., Belgrade, Montana
   * Conducted rangeland vegetation and soil surveys following National Resources Inventory (NRI) and Assessment, Inventory, and Monitoring (AIM) protocol at over 200 sites throughout Wyoming, Montana, Utah, and Nevada.
 
-* Undergraduate Research Assistant, Spring 2016
-  * Rangeland Social-Ecological Systems Lab, Colorado State University 
+* Undergraduate Research Assistant, Spring 2016  
+Rangeland Social-Ecological Systems Lab, Colorado State University 
   * Assisted Dr. Hailey Wilmer in a study on the collaborative adaptive management process in a rangeland context. Synthesized meeting cliff notes, agendas, and transcripts to elucidate and track stakeholder decisions and social dynamics over the course of the Adaptive Grazing Management Experiment. 
 
-* Ranch and Range Management Intern, Fall 2015
-  * Rock Hills Ranch, Lowry, South Dakota
+* Ranch and Range Management Intern, Fall 2015  
+Rock Hills Ranch, Lowry, South Dakota
   * Integrated landowner knowledge, ecological conditions, and geospatial data to develop a ranch operation manual. Developed a digital map of pasture resources and other ranch assets. Implemented rangeland improvement projects including fencing and water development. Performed rangeland health assessments and monitored forage utilization.
 
-* Field Technician, Summer 2015
-  * Rangeland-Social Systems Lab, Colorado State University
+* Field Technician, Summer 2015  
+Rangeland-Social Systems Lab, Colorado State University
   * Supported graduate research on greater sage grouse habitat, aspen decline, and soil nitrogen-plant community feedbacks. Identified plant species and collected ecological data on species richness, foliar cover, production, utilization, and basal cover at aspen and sagebrush field sites throughout northwestern Colorado.
 
-* Study Abroad, Spring 2015
-  * SIT Mongolia: Geopolitics and the Environment, Ulaanbaatar, Mongolia
+* Study Abroad, Spring 2015  
+SIT Mongolia: Geopolitics and the Environment, Ulaanbaatar, Mongolia
   * Collaborated with a Mongolian NGO to implement a community-based conservation plan in a rural herding and logging community. Assisted with organization of the Building Resilience of Mongolia's Rangelands research conference. Studied the forces governing and guiding national development and natural resource management.
 
-* Undergraduate Research Assistant, 2014 - 2015
-  * Rangeland Social-Ecological Systems Lab, Colorado State University
+* Undergraduate Research Assistant, 2014 - 2015  
+Rangeland Social-Ecological Systems Lab, Colorado State University
   * Processed soil samples for nitrogen analysis. Entered social and ecological data with Microsoft Access.
 
-* Herbarium Assistant, 2013 - 2015
-  * CSU Herbarium, Colorado State University
+* Herbarium Assistant, 2013 - 2015  
+CSU Herbarium, Colorado State University
   * Developed a novel image-based plant identification web-portal and a plant characteristic database for all Colorado plant species. Wrote technical species descriptions and created distribution maps for Dr. Jennifer Ackerfield's Flora of Colorado.
 
-* Field Botanist, Summer 2013
-  * USGS & Knapp Lab, Colorado State University
+* Field Botanist, Summer 2013  
+USGS & Knapp Lab, Colorado State University
   * Supported research on the impact of increased nitrogen deposition on mixed grass prairie plant communities in Wind Cave and Badlands National Parks with Dr. Amy Symstad. Measured plant community attributes via point-intercept, nested plot, and biomass harvest methods.
 
-* Undergraduate Research Assistant, 2012 - 2013
-  * Restoration Ecology Lab, Colorado State University
+* Undergraduate Research Assistant, 2012 - 2013  
+Restoration Ecology Lab, Colorado State University
   * Facilitated studies on grasshopper herbivory, revegetation plantings, seed banks, and post-disturbance dynamics.
 
-* Biological Science Aide, Summer 2012
-  * Rocky Mountain National Park, Estes Park, Colorado
+* Biological Science Aide, Summer 2012  
+Rocky Mountain National Park, Estes Park, Colorado
   * Assisted postgraduate research on cheatgrass response to manipulated soil carbon and nitrogen levels. Established, maintained, and monitored vegetation restoration sites.
 
-* Undergraduate Lab Assistant, 2011-2012
-  * National Wildlife Research Center, Fort Collins, Colorado
+* Undergraduate Lab Assistant, 2011-2012  
+National Wildlife Research Center, Fort Collins, Colorado
   * Assisted the Reproductive Control Methods Project with the development and production of GonaCon, a fish and wildlife immunocontraceptive Performed troubleshooting and operation of a macro program in MS Excel to evaluate ELISA data.
   
 ### Service and outreach
