@@ -13,6 +13,8 @@ redirect_from:
 
 * PhD student in Ecology and Environmental Sciences  
 Montana State University
+  * Dissertation topic: Reconstructing large herbivore community dynamics and environmental interactions in Late Quaternary North America
+  * Advisor: Dr. David B. McWethy
 * B.S. in Rangeland Ecology, Restoration Ecology concentration, Conservation Biology minor  
 Colorado State University, 2016
   * _Magna cum laude_, University Honors Scholar, 3.98 GPA
@@ -34,7 +36,7 @@ Colorado State University, 2016
 * Graduate School Professional Advancement Grant, 2020
 * Jim Edie Geography Scholarship, 2019
 * Honorable Mention, NSF GRFP, 2019
-* Member, Phi Kappa Phi, Inducted 2019
+* Phi Kappa Phi, Inducted 2019
 * D.R. and Virginia D. Pulliam Scholarship, 2016
 * Benjamin A. Gilman International Scholarship, 2015
 * CSU OIP Undergraduate Education Abroad Scholarship, 2015
@@ -53,10 +55,10 @@ Colorado State University, 2016
 ### Skills
 
 * Programming languages: R, python
+* Select R packages: ggplot, raster, labdsv
+* Statistical methods:  random forest, multivariate analysis
 * GIS software: ArcGIS Pro, QGIS
-* Geospatial analysis: raster
 * Climate analysis: netCDF Operators (NCO), Climate Data Operators (CDO)
-* Data visualization: ggplot
 * Distribution modeling: MaxEnt
 * Version control: GitHub
   
@@ -75,7 +77,7 @@ Colorado State University, 2016
 ### Research and professional experience
 
 * Visiting Researcher, Fall 2021  
-  Dept. of Environmental Sciences, Informatics and Statistics, Ca' Foscari University of Venice
+  Department of Environmental Sciences, Informatics and Statistics, Ca' Foscari University of Venice
   * Analyzed molecular biomarkers from lake sediments to reconstruct past herbivore activity.
 
 * Teaching Asisstant, Spring 2019 - Spring 2021  
@@ -136,10 +138,11 @@ National Wildlife Research Center, Fort Collins, Colorado
   
 ### Service and outreach
 
-* Leadership & Speaker Series Committee, MSU Grasslands Resilience Working Group, 2018 - Present
+* Leadership & Speaker Series Committee, MSU Grasslands Resilience Working Group, 2018 - present
 * Virtual Student Federal Service (VSFS) eIntern, Federal Geographic Data Committee, 2018 - 2019
 * Guest Presenter, Nueva School Annual Experiential Learning Trip, April 2019
 * Volunteer Instructor, Chief Joseph Middle School Earth Science Day, December 2018
 * Secretary, Young Professionals Conclave, Society for Range Management, 2017
 * Alumni Mentor, School for International Training (SIT), 2015 - 2016
 
+### Courses
