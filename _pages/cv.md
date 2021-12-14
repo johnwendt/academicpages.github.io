@@ -54,14 +54,14 @@ Colorado State University, 2016
 
 ### Skills
 
-* Programming languages: R, python
-* Select R packages: ggplot, raster, labdsv
-* Statistical methods:  random forest, multivariate analysis
-* GIS software: ArcGIS Pro, QGIS
+* Programming languages: R, python, SQL
+* Statistics and machine learning: generalized additive models, random forests, ordination, classification and regression trees
+* Select R packages: ggplot2, dplyr, knitr, rioja
+* GIS software: ArcGIS Pro, QGIS, R packages (raster, rgdal, sf, sp, rgeos)
 * Climate analysis: netCDF Operators (NCO), Climate Data Operators (CDO)
-* Distribution modeling: MaxEnt
+* Ecological distribution modeling: MaxEnt
 * Version control: GitHub
-  
+
 ### Talks
 
   <ul>{% for post in site.talks %}
