@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-======
+
 * PhD student in Ecology and Environmental Sciences  
 Montana State University
 * B.S. in Rangeland Ecology, Restoration Ecology concentration, Conservation Biology minor  
@@ -18,18 +18,18 @@ Colorado State University, 2016
   * _Magna cum laude_, University Honors Scholar, 3.98 GPA
 
 ### Publications
-======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ### Research Grants
-======
+
 * Graduate Research Innovation Award, Joint Fire Science Program, 2019, $24,000
 * Theodore Roosevelt Memorial Grant, American Museum of Natural History, 2019
 
 ### Honors, Awards, and Scholarships
-======
+
 * Graduate School PhD Enhancement Award, 2021-2022
 * Graduate School Professional Advancement Grant, 2020
 * Jim Edie Geography Scholarship, 2019
@@ -51,7 +51,7 @@ Colorado State University, 2016
 * CFA Leadership Scholarship, 2011
 
 ### Skills
-======
+
 * Programming languages: R, python
 * GIS software: ArcGIS Pro, QGIS
 * Geospatial analysis: raster
@@ -61,19 +61,19 @@ Colorado State University, 2016
 * Version control: GitHub
   
 ### Talks
-======
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 ### Teaching
-======
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ### Research and professional experience
-======
+
 * Visiting Researcher, Fall 2021
   * Dept. of Environmental Sciences, Informatics and Statistics, Ca' Foscari University of Venice
   * Analyzed molecular biomarkers from lake sediments to reconstruct past herbivore activity.
@@ -135,7 +135,7 @@ Colorado State University, 2016
   * Assisted the Reproductive Control Methods Project with the development and production of GonaCon, a fish and wildlife immunocontraceptive Performed troubleshooting and operation of a macro program in MS Excel to evaluate ELISA data.
   
 ### Service and outreach
-======
+
 * Leadership & Speaker Series Committee, MSU Grasslands Resilience Working Group, 2018 - Present
 * Virtual Student Federal Service (VSFS) eIntern, Federal Geographic Data Committee, 2018 - 2019
 * Guest Presenter, Nueva School Annual Experiential Learning Trip, April 2019
