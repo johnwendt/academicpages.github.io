@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "John A.F. Wendt IV"
+title: "John A.F. Wendt IV" {text-align: center;}
 permalink: /cv/
 author_profile: true
 redirect_from:
