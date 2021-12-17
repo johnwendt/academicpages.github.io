@@ -1,5 +1,5 @@
 ---
-title: "Introduction to GIScience and Cartography - GPHY 284"
+title: "Introduction to GIScience and Cartography (GPHY 284)"
 collection: teaching
 type: "Graduate teaching assistant"
 permalink: /teaching/GPHY_284
@@ -8,7 +8,7 @@ date: 2019-01-15
 location: "Bozeman, Montana"
 ---
 
-Lab sections of GPHY 284 focused on geographic information science and cartography. I taught two undergraduate lab sections during the Spring 2019 and Spring 2020 semesters. The second half of the Spring 2020 semester was conducted online due to the COVID-19 pandemic.
+Taught two undergraduate lab sections on geographic information science and cartography. Semesters: Spring 2019 and Spring 2020.  
 
 *Skills taught:*
 * GPS

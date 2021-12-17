@@ -1,5 +1,5 @@
 ---
-title: "Advanced GIS and Spatial Analysis - GPHY 384"
+title: "Advanced GIS and Spatial Analysis (GPHY 384)"
 collection: teaching
 type: "Graduate teaching assistant"
 permalink: /teaching/GPHY_384
@@ -7,6 +7,10 @@ venue: "Montana State University, Department of Earth Sciences"
 date: 2020-08-15
 location: "Bozeman, Montana"
 ---
+
+Taught two undergraduate lab sections on geographic information science and cartography, Spring 2019 and Spring 2020.  
+
+Taught two undergraduate lab sections on geographic information systems (GIS) and spatial analysis. Semesters: Spring 2019, Fall 2020, and Spring 2021.
 
 Lab sections of GPHY 384 focused on geographic information systems (GIS) and spatial analysis. I taught two undergraduate lab sections during two semesters, Fall 2020 and Spring 2021.
 
