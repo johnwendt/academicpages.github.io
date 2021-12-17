@@ -7,12 +7,6 @@ redirect_from:
   - /resume
 ---
 
-'''{css, echo=FALSE}
-h1, h2, h3 {
-  text-align: center;
-}
-'''
-
 {% include base_path %}
 
 ### Education
