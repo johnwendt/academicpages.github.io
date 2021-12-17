@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome!
-I am a PhD student in the [Paleoecology Lab](https://sites.google.com/site/msupaleoecologylab/) in the [Department of Earth Sciences](https://www.montana.edu/earthsciences/) at [Montana State University](https://www.montana.edu/) in Bozeman, Montana. I earned my B.S. in Rangeland Ecology from (Colorado State University)[https://www.colostate.edu/].
+I am a PhD student in the [Paleoecology Lab](https://sites.google.com/site/msupaleoecologylab/) in the [Department of Earth Sciences](https://www.montana.edu/earthsciences/) at [Montana State University](https://www.montana.edu/) in Bozeman, Montana. I earned my B.S. in Rangeland Ecology from [Colorado State University](https://www.colostate.edu/).
 
 My research explores the influence of disturbance and climate change on organisms, communities, and ecosystems. My ongoing dissertation work seeks to understand how large herbivores cause and respond to environmental change across a wide range of spatial and temporal scales. To this end, my work incorporates methods and principles several fields including paleoecology, analytical chemistry, fire ecology, paleoecoinformatics, and biogeography. 
 
