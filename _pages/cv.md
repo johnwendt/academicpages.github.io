@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: <center> "John A.F. Wendt IV" </center>
+title: <center> John A.F. Wendt IV </center>
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+h1, h2, h3 {
+  text-align: center;
+}
 
 {% include base_path %}
 
