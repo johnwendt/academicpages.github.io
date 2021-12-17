@@ -146,4 +146,32 @@ National Wildlife Research Center, Fort Collins, Colorado
 * Secretary, Young Professionals Conclave, Society for Range Management, 2017
 * Alumni Mentor, School for International Training (SIT), 2015 - 2016
 
-### Courses
+### Select coursework
+#### Graduate
+* Analysis of Ecological Communities (MSU BIOE 540)
+* Methods of Data Analysis 1 & 2 (MSU STAT 511/512)
+* Geospatial Approaches to Problem Solving (MSU GPHY 591)
+* Quaternary Environments of the Western US (MSU ERTH 584)
+* Topics in Paleoecology (MSU ERTH 583)
+* Istope Biogeochemistry (MSU LRES 558)
+* Ecosystem Biogeochemistry (MSU LRES 568)
+* Biogeochemistry Analysis Synthesis (MSRU LRES 567)
+
+#### Undergraduate
+* Quantitative Reasoning for Ecosystem Science (CSU ESS 330)
+* Geospatial Applications in Natural Resources (CSU NR 319)
+* Ecological Restoration (CSU RS 478)
+* Plant Ecology (CSU BZ 450)
+* Forest Ecology (CSU F 311)
+* Rangeland and Forest Ecogeography (CSU RS 310)
+* Ecology (CSU LIFE 320)
+* Rangeland Herbivore Ecology and Management (CSU RS 452)
+* Integrated Ecosystem Management (CSU NR 420)
+* Pastoralism and Natural Resource Management (SIT Mongolia)
+* Rangeland Measurements and Monitoring (CSU RS 452)
+* Natural Resources History and Policy (CSU NR 320)
+* Rangeland Assessment (CSU RS 329)
+* Rangeland Conservation and Stewardship (CSU RS 300)
+* Plant Identification (CSU BZ 223)
+
+
