@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "John A.F. Wendt IV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,10 +13,11 @@ redirect_from:
 
 * PhD student in Ecology and Environmental Sciences  
 Montana State University
-  * Dissertation topic: Reconstructing large herbivore community dynamics and environmental interactions in Late Quaternary North America
+  * Dissertation topic: _Reconstructing large herbivore community dynamics and environmental interactions in Late Quaternary North America_
   * Advisor: Dr. David B. McWethy
-* B.S. in Rangeland Ecology, Restoration Ecology concentration, Conservation Biology minor  
+* B.S. in Rangeland Ecology  
 Colorado State University, 2016
+  * Restoration Ecology concentration, Conservation Biology minor 
   * _Magna cum laude_, University Honors Scholar, 3.98 GPA
 
 ### Publications
