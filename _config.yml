@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "John Wendt"
 title_separator          : "-"
 name                     : &name "John Wendt"
-description              : &description " PhD Student | Ecology and Environmental Sciences"
+description              : &description "PhD Student"
 url                      : https://johnwendt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "johnwendt.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "John Wendt"
   avatar           : "JWendt.jpg"
-  bio              : "PhD Student \n Ecology and Environmental Sciences"
+  bio              : "PhD Student"
   location         : "Bozeman, Montana"
   employer         : "Montana State University"
   pubmed           : 
