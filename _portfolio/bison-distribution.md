@@ -5,6 +5,8 @@ collection: portfolio
 ---
 
 ![Bison distribution and body size change](/images/NABisonHolocene_v2.2.gif)  
+
+<img src="/images/NABisonHolocene_v2.2.gif", alt="Bison distribution and body size change", width="700"/>
   
   
 Since the Last Glacial Period, _Bison_ have responded to environmental changes with distribution shifts and body size changes. While many other large mammals went extinct at the Pleistocene - Holocene transition (ca. 12,000 years ago), _Bison_ survived to dominate open ecosystems in North America.
