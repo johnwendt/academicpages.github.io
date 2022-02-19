@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor"
 permalink: /teaching/GPHY_411
 venue: "Montana State University, Department of Earth Sciences"
-date: 2020-01-20
+date: 2022-01-20
 location: "Bozeman, Montana"
 ---
 
