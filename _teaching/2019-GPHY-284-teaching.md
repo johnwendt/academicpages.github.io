@@ -11,6 +11,7 @@ location: "Bozeman, Montana"
 Taught two undergraduate lab sections on geographic information science and cartography. Semesters: Spring 2019 and Spring 2020.  
 
 *Skills taught:*
+
 * GPS
 * Data directory management
 * Principles of cartographic design
@@ -22,9 +23,11 @@ Taught two undergraduate lab sections on geographic information science and cart
 * Vector and raster analysis
 
 *Programming languages used:*
+
 * SQL
 
 *Software applications:*
+
 * ArcMap
 * ArcCatalog
 * ArcGIS Online

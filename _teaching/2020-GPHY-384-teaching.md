@@ -8,9 +8,7 @@ date: 2020-08-15
 location: "Bozeman, Montana"
 ---
 
-Taught two undergraduate lab sections on geographic information systems (GIS) and spatial analysis. Semesters: Spring 2019, Fall 2020, and Spring 2021.
-
-Lab sections of GPHY 384 focused on geographic information systems (GIS) and spatial analysis. I taught two undergraduate lab sections during two semesters, Fall 2020 and Spring 2021.
+Taught two undergraduate lab sections on geographic information systems (GIS) and spatial analysis. Semesters: Fall 2020, and Spring 2021.
 
 *Skills taught:*
 
