@@ -1,6 +1,6 @@
 ---
 title: "<i>Bison</i> distribution and body size through the Holocene"
-excerpt: "<br/><img src='/images/bison-silhouette.png'>"
+excerpt: "<br/><img src='/images/bison-silhouette.png' width = 384, height = 259>"
 collection: portfolio
 ---
 
