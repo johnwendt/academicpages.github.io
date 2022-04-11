@@ -1,6 +1,6 @@
 ---
 title: "Holocene <i>Bison</i> evolution"
-excerpt: "Visualization of changing body size and geographic distribution." <br/><img src='/images/bison-silhouette.png' width = "384" height = "259">
+excerpt: "Visualization of changing body size and geographic distribution." 
 collection: portfolio
 ---
 
