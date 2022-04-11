@@ -1,5 +1,5 @@
 ---
-title: "Holocene <i>Bison</i> evolution"
+title: "Holocene Bison Evolution"
 excerpt: "Visualization of changing body size and geographic distribution." 
 collection: portfolio
 ---
