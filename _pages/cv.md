@@ -58,11 +58,11 @@ redirect_from:
 
 * Programming languages: R, python, SQL
 * Statistics and machine learning: generalized additive models, random forests, ordination, classification and regression trees
-* Select R packages: ggplot2, dplyr, knitr, rioja
+* Select R packages: ggplot2, dplyr, knitr, rioja, leaflet, shiny
 * GIS software: ArcGIS Pro, QGIS, R packages (raster, rgdal, sf, sp, rgeos)
 * Climate analysis: netCDF Operators (NCO), Climate Data Operators (CDO)
 * Ecological distribution modeling: MaxEnt
-* Version control: GitHub
+* Version control: Git, GitHub
 
 ### Talks
 
