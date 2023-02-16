@@ -8,7 +8,7 @@ date: 2020-08-15
 location: "Bozeman, Montana"
 ---
 
-Taught two undergraduate lab sections on geographic information systems (GIS) and spatial analysis. Semesters: Fall 2020, and Spring 2021.
+Taught three undergraduate lab sections on geographic information systems (GIS) and spatial analysis. Semesters: Fall 2020, Spring 2021, and Fall 2022.
 
 *Skills taught:*
 
