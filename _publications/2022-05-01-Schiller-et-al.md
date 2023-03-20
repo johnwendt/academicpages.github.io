@@ -1,6 +1,6 @@
 ---
 
-title: "Getting information from the past: palaeoecological studies of terrestrial ecosystems"
+title: "Getting information from the past: Palaeoecological studies of terrestrial ecosystems"
 collection: publications
 date: 2023-02-01
 venue: 'Key Methods in Geography'
