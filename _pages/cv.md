@@ -28,8 +28,10 @@ redirect_from:
 
 ### Research Grants
 
+* Yellowstone Doctoral Scholars Fellowship, MSU Institute on Ecosystems, 2023
 * Graduate Research Innovation Award, Joint Fire Science Program, 2019, $24,000
 * Theodore Roosevelt Memorial Grant, American Museum of Natural History, 2019
+* NSF REU Grant Supplement (PI: Dr. Mark Simmons), 2013
 
 ### Honors, Awards, and Scholarships
 
@@ -49,7 +51,6 @@ redirect_from:
 * College Access Challenge Grant Scholarship, 2013
 * Colonel Marvin & Joye Parker Scholarship, 2013
 * Warner CNR General Scholarship, 2013
-* NSF REU Grant Supplement (PI: Dr. Mark Simmons), 2013 
 * University Honors Program Scholarship, 2011-2015
 * Warner CNR Dean's Honor Roll, 2011-2016
 * CFA Leadership Scholarship, 2011
@@ -78,20 +79,24 @@ redirect_from:
 
 ### Research and professional experience
 
-* Visiting Researcher, Fall 2021  
-  Department of Environmental Sciences, Informatics and Statistics, Ca' Foscari University of Venice
-  
-  * Analyzed molecular biomarkers from lake sediments to reconstruct past herbivore activity.
-
-* Teaching Asisstant, Spring 2019 - Spring 2021  
-  Departement of Earth Sciences and Department of Land Resources and Environmental Sciences, Montana State University
-  
-  * Led instruction of two lab sections for undergraduate students in GPHY 284 - Intro. to GIS Science and Cartography and GPHY 384 - Adv. GIS and Spatial Analysis.
-
 * Research Asisstant, Fall 2018 - present  
   Paleoecology Lab, Montana State University
   
-  * Supporting lab and field research activities including collection of sediment cores and lab analysis of charcoal and pollen.
+  - Supporting lab and field research activities including collection of sediment cores and lab analysis of charcoal and pollen.
+
+* Teaching Asisstant, Spring 2019 - Fall 2022  
+  Departement of Earth Sciences and Department of Land Resources and Environmental Sciences, Montana State University
+  
+  - Led instruction of two lab sections for undergraduate students in GPHY 284 - Intro. to GIS Science and Cartography and GPHY 384 - Adv. GIS and Spatial Analysis.
+
+* Instructor, Spring 2022
+  
+  - Led lectures and class sessions for GPHY 411 - Biogeography
+
+* Visiting Researcher, Fall 2021  
+  Department of Environmental Sciences, Informatics and Statistics, Ca' Foscari University of Venice
+  
+  - Analyzed molecular biomarkers from lake sediments to reconstruct past herbivore activity.
 
 * GIS Specialist, 2018  
   Center for Environmental Management of Military Lands, Colorado State University
@@ -152,6 +157,8 @@ redirect_from:
   National Wildlife Research Center, Fort Collins, Colorado
   
   * Assisted the Reproductive Control Methods Project with the development and production of GonaCon, a fish and wildlife immunocontraceptive Performed troubleshooting and operation of a macro program in MS Excel to evaluate ELISA data.
+
+
 
 ### Service and outreach
 
