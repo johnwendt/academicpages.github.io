@@ -24,10 +24,15 @@ redirect_from:
 
 <ul>
   {% assign total_publications = site.publications.size %}
-  {% for index in (total_publications - 1) | down_to 0 %}
-    {% assign post = site.publications[index] %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
+  {% if total_publications == 0 %}
+    <li>No publications found</li>
+  {% else %}
+    <li>Total publications: {{ total_publications }}</li>
+    {% for index in (total_publications - 1) | down_to 0 %}
+      {% assign post = site.publications[index] %}
+      <li>{{ post.title }}</li> <!-- Assuming there's a 'title' attribute, replace it if needed -->
+    {% endfor %}
+  {% endif %}
 </ul>
 
 ### Research Grants
