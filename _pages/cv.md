@@ -30,7 +30,11 @@ redirect_from:
     <li>Total publications: {{ total_publications }}</li>
     {% for index in (total_publications - 1) | down_to 0 %}
       {% assign post = site.publications[index] %}
-      <li>{{ post.title }}</li> <!-- Assuming there's a 'title' attribute, replace it if needed -->
+      <li>
+        <strong>Title:</strong> {{ post.title }}<br>
+        <strong>Date:</strong> {{ post.date }}<br>
+        <strong>Content:</strong> {{ post.content | truncate: 100 }}
+      </li>
     {% endfor %}
   {% endif %}
 </ul>
