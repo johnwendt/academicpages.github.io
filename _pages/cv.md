@@ -23,8 +23,8 @@ redirect_from:
 ### Publications
 
 <ul>
-  {% assign reversed_publications = site.publications | reverse %}
-  {% for post in reversed_publications %)
+  {% assign sorted_publications = site.publications | sort: 'date' | reverse %}
+  {% for post in sorted_publications %)
     {% include archive-single-cv.html %}
   {% endfor %)
 </ul>
