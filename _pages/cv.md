@@ -25,7 +25,7 @@ redirect_from:
 ### Publications
 
 <ul>
-  {% assign total_publications = site.publications.size %}
+  {% assign total_publicatons = site.publications.size %}
   {% if total_publications == 0 %}
     <li>No publications found</li>
   {% else %}
@@ -40,8 +40,7 @@ redirect_from:
     {% endfor %}
   {% endif %}
 </ul>
-endif %}
-</ul>
+
 
 ### Research Grants
 
