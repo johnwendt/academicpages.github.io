@@ -26,6 +26,13 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<ul>
+      {% assign reversed_publications = site.publications | reverse %}
+      {% for post in reversed_publications %)
+          {% include archive-single-cv.html %}
+      {% endfor %)
+  </ul>
+
 ### Research Grants
 
 * Yellowstone Doctoral Scholars Fellowship, MSU Institute on Ecosystems, 2023
