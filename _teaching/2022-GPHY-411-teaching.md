@@ -8,7 +8,7 @@ date: 2022-01-20
 location: "Bozeman, Montana"
 ---
 
-Leading 50% of lectures of an upper-division biogeography course.
+Led 50% of lectures of an upper-division biogeography course.
 
 Co-instructor and mentor: Dr. Dave McWethy
 
