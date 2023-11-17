@@ -26,7 +26,7 @@ redirect_from:
   {% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}
-</ul>l>
+</ul>
 
 </ul>
 
