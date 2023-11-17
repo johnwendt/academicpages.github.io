@@ -28,7 +28,6 @@ redirect_from:
   {% endfor %}
 </ul>
 
-
 ### Research Grants
 
 * Yellowstone Doctoral Scholars Fellowship, MSU Institute on Ecosystems, 2023
