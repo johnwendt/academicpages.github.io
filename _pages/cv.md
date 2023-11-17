@@ -28,13 +28,6 @@ redirect_from:
   {% endfor %}
 </ul>
 
-</ul>
-
-</ul>
-
-</ul>
-
-</ul>
 
 ### Research Grants
 
