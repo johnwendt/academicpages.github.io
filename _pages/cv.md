@@ -11,7 +11,7 @@ redirect_from:
 
 ### Education
 
-* PhD in Ecology and Environmental Sciences  
+* Ph.D. in Ecology and Environmental Sciences  
   Montana State University
   * Dissertation topic: _Reconstructing Large Herbivore Abundance and Environmental Interactions in Postglacial North America_
   * Advisor: Dr. David B. McWethy
