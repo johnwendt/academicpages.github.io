@@ -38,6 +38,7 @@ redirect_from:
   {% endif %}
 </ul>
 
+</ul>
 
 </ul>
 
