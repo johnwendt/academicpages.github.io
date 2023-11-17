@@ -22,10 +22,6 @@ redirect_from:
 
 ### Publications
 
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 <ul>
       {% assign reversed_publications = site.publications | reverse %}
       {% for post in reversed_publications %)
