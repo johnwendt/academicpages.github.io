@@ -23,19 +23,11 @@ redirect_from:
 ### Publications
 
 <ul>
-  {% assign publications = site.collections.publications.docs | sort: 'date' | reverse %}
-  
-  {% if publications.size == 0 %}
-    <li>No publications found</li>
-  {% else %}
-    {% for post in publications %}
-      <li>
-        <strong>Title:</strong> {{ post.data.title }}<br>
-        <strong>Date:</strong> {{ post.data.date }}<br>
-        <strong>Content:</strong> {{ post.content | truncate: 100 }}
-      </li>
-    {% endfor %}
-  {% endif %}
+  {% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>l>
+
 </ul>
 
 </ul>
