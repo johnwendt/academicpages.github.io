@@ -23,11 +23,11 @@ redirect_from:
 ### Publications
 
 <ul>
-      {% assign reversed_publications = site.publications | reverse %}
-      {% for post in reversed_publications %)
-          {% include archive-single-cv.html %}
-      {% endfor %)
-  </ul>
+  {% assign reversed_publications = site.publications | reverse %}
+  {% for post in reversed_publications %)
+    {% include archive-single-cv.html %}
+  {% endfor %)
+</ul>
 
 ### Research Grants
 
