@@ -23,20 +23,23 @@ redirect_from:
 ### Publications
 
 <ul>
-  {% assign total_publicatons = site.publications.size %}
-  {% if total_publications == 0 %}
+  {% assign publications = site.collections.publications.docs | sort: 'date' | reverse %}
+  
+  {% if publications.size == 0 %}
     <li>No publications found</li>
   {% else %}
-    <li>Total publications: {{ total_publications }}</li>
-    {% for index in (total_publications - 1) | down_to 0 %}
-      {% assign post = site.publications[index] %}
+    {% for post in publications %}
       <li>
-        <strong>Title:</strong> {{ post.title }}<br>
-        <strong>Date:</strong> {{ post.date }}<br>
+        <strong>Title:</strong> {{ post.data.title }}<br>
+        <strong>Date:</strong> {{ post.data.date }}<br>
         <strong>Content:</strong> {{ post.content | truncate: 100 }}
       </li>
     {% endfor %}
   {% endif %}
+</ul>
+
+
+</ul>
 
 </ul>
 
