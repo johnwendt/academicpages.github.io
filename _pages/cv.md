@@ -23,10 +23,11 @@ redirect_from:
 ### Publications
 
 <ul>
-  {% assign sorted_publications = site.publications | sort: 'date' | reverse %}
-  {% for post in sorted_publications %)
+  {% assign total_publications = site.publications.size %}
+  {% for index in (total_publications - 1) | down_to 0 %}
+    {% assign post = site.publications[index] %}
     {% include archive-single-cv.html %}
-  {% endfor %)
+  {% endfor %}
 </ul>
 
 ### Research Grants
