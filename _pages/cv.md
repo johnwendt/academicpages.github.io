@@ -11,9 +11,9 @@ redirect_from:
 
 ### Education
 
-* PhD student in Ecology and Environmental Sciences  
+* PhD in Ecology and Environmental Sciences  
   Montana State University
-  * Dissertation topic: _Reconstructing large herbivore community dynamics and environmental interactions in Late Quaternary North America_
+  * Dissertation topic: _Reconstructing Large Herbivore Abundance and Environmental Interactions in Postglacial North America_
   * Advisor: Dr. David B. McWethy
 * B.S. in Rangeland Ecology  
   Colorado State University, 2016
@@ -35,6 +35,7 @@ redirect_from:
 
 ### Honors, Awards, and Scholarships
 
+* MSU PhD Dissertation Completion Award, 2023
 * 1st Place MAGIP GIS Poster Competition, 2022
 * Graduate School PhD Enhancement Award, 2021-2022
 * Graduate School Professional Advancement Grant, 2020
@@ -157,8 +158,6 @@ redirect_from:
   National Wildlife Research Center, Fort Collins, Colorado
   
   * Assisted the Reproductive Control Methods Project with the development and production of GonaCon, a fish and wildlife immunocontraceptive Performed troubleshooting and operation of a macro program in MS Excel to evaluate ELISA data.
-
-
 
 ### Service and outreach
 
