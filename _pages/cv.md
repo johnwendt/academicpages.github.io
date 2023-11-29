@@ -11,14 +11,16 @@ redirect_from:
 
 ### Education
 
-* Ph.D. in Ecology and Environmental Sciences  
-  Montana State University
+* Ph.D. in Ecology and Environmental Sciences, Montana State University, 2023
   * Dissertation topic: _Reconstructing Large Herbivore Abundance and Environmental Interactions in Postglacial North America_
   * Advisor: Dr. David B. McWethy
-* B.S. in Rangeland Ecology  
-  Colorado State University, 2016
+* B.S. in Rangeland Ecology, Colorado State University, 2016
   * Restoration Ecology concentration, Conservation Biology minor 
   * _Magna cum laude_, University Honors Scholar, 3.98 GPA
+
+### Professional Appointments
+
+* 2023-present USDA Climate Hub Fellow, Oklahoma State University
 
 ### Publications
 
@@ -80,9 +82,9 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-### Research and professional experience
+### Research and Professional Experience
 
-* Research Asisstant, Fall 2018 - present  
+* Research Asisstant, Fall 2018 - Fall 2023  
   Paleoecology Lab, Montana State University
   
   - Supporting lab and field research activities including collection of sediment cores and lab analysis of charcoal and pollen.
@@ -170,7 +172,7 @@ redirect_from:
 * Secretary, Young Professionals Conclave, Society for Range Management, 2017
 * Alumni Mentor, School for International Training (SIT), 2015 - 2016
 
-### Select coursework
+### Select Coursework
 
 #### Graduate
 
